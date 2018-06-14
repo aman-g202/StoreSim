@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="peekview-1.2.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/c97d82a819b3c935a0ceee05e5cddecd666a299e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c97d82a819b3c935a0ceee05e5cddecd666a299e/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.klinkerapps/peekview/1.2.3/3434ca07ec34583ce4d16e7a834758e79d98bb43/peekview-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
